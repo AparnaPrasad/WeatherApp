@@ -1,2 +1,3 @@
 # WeatherApp
-Simple exercise to familiarize with Node JS. This application takes in a location and displays weather information
+Simple exercise to familiarize with Node JS, Asynchronous callbacks.
+This application takes in a location (latitude and longitude) and displays the weather information
